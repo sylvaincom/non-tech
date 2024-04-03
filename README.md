@@ -1,5 +1,7 @@
 # About the non-technical aspects of AI and ML
 
+_This is work in progress, most of the references are from 2019, 2020._
+
 I believe that while working on AI projects, one should also be aware of the non-technical aspects of AI. While everything is digital and out of sight, AI actually has a profound impact on the environment and society. The ethical challenges of self-driving car accidents and the alarming energy consumption of deep learning algorithms are some examples. It is crucial to stay up to date with these challenges in order to have a holistic view of the consequences of AI research.
 
 In this post, I suggest some very interesting references revolving around the impact of AI. Naturally, like all opinion pieces, some of them should be read with hindsight and a critical mind.
