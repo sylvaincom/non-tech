@@ -18,14 +18,13 @@ In this post, I suggest some very interesting references revolving around the im
 <a name='ref'></a>
 #### Some resources on AI
 
-<!--* * [_Artefact_](https://www.artefact.com/blog/) -->
 * [_Data Analytics Post_](https://dataanalyticspost.com/) <font color="#bdc3c7 ">(French)</font>: "Nouveau média d’information et de réflexion autour des « data sciences » porté par le master MVA de l’ENS Paris-Saclay. Décryptage des problématiques de traitement et d'analyse des données."
 * [_Financial Times_](https://www.ft.com/artificial-intelligence)
 * [_Harvard Business Review_](https://hbr.org/topic/technology)
-<!--* * [_McKinsey & Company_](https://www.mckinsey.com/featured-insights/artificial-intelligence) -->
+* [_McKinsey & Company_](https://www.mckinsey.com/featured-insights/artificial-intelligence)
 * [_MIT Technology Review_](https://www.technologyreview.com/artificial-intelligence/)
-<!--* [_The Economist_](https://www.economist.com/topics/artificial-intelligence) -->
-<!--* [_The Guardian_](https://www.theguardian.com/technology/artificialintelligenceai) -->
+* [_The Economist_](https://www.economist.com/topics/artificial-intelligence)
+* [_The Guardian_](https://www.theguardian.com/technology/artificialintelligenceai)
 * [_Le Monde_](https://www.lemonde.fr/intelligence-artificielle/) <font color="#bdc3c7 ">(French)</font>
 * [_The New York Times_](https://www.nytimes.com/topic/subject/artificial-intelligence)
 * [_Les Echos_](https://www.lesechos.fr/tech-medias/intelligence-artificielle/) <font color="#bdc3c7 ">(French)</font>
@@ -45,7 +44,6 @@ Some newsletters:
 	<li>Nathan Benaich and Ian Hogarth / <a href="https://www.stateof.ai/" target="_blank">State of AI Report 2020</a> / Oct. 1, 2020</li>
 	<li><a href="https://www.economist.com/special-report/2020/02/20/a-deluge-of-data-is-giving-rise-to-a-new-economy/" target="_blank">The data economy, Mirror worlds</a> / <i>The Economist</i> / Feb. 20, 2020</li>
 	<li>Sam Ransbotham, Shervin Khodabandeh, Ronny Fehling, Burt LaFountain, and David Kiron / <a href="https://www.bcg.com/fr-fr/publications/2019/how-to-win-with-artificial-intelligence-ai.aspx" target="_blank">Winning With AI: Pioneers Combine Strategy, Organizational Behavior, and Technology</a> / <i>MIT Sloan Management Review</i> in collaboration with <i>BCG</i> / Oct. 15th 2019</li>
-	<!-- <li>Nathan Benaich and Ian Hogarth / <a href="https://www.stateof.ai/2019/" target="_blank">State of AI Report 2019</a> / June 28, 2019</li> -->
 	<li><a href="https://www.nytimes.com/spotlight/artificial-intelligence" target="_blank">Artificial Intelligence Special Report</a> / <i>The New York Times</i> / Oct. 21, 2018</li>
 	<li>Cédric Villani / <a href="https://www.aiforhumanity.fr/en/" target="_blank">For a Meaningful Artificial Intelligence: Towards a French and European Strategy</a> / <i>AI For Humanity</i> / Mar. 29, 2018<br/>
 	Follow-up YouTube video: Pascal Boniface avec Cédric Villani / <a href="https://www.youtube.com/watch?v=ldxugFelbSc" target="_blank">Géopolitique de l'intelligence artificielle</a> / <i>Comprendre le monde</i> / Dec. 2, 2020 <font color="#bdc3c7 ">(French)</font>
